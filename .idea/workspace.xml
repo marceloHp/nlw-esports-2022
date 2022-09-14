@@ -4,72 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6735b4dc-1837-4948-adcc-4365bef70bc2" name="Changes" comment="feat(test commit):">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/nlw-esports-2022.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/src/@types/png.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/src/assets/background-galaxy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/src/assets/background-galaxy@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/src/assets/background-galaxy@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/src/assets/games/game-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/src/assets/games/game-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/src/assets/games/game-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/src/assets/games/game-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/src/assets/games/game-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/src/assets/games/game-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/src/assets/logo-nlw-esports.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/src/assets/logo-nlw-esports@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/src/assets/logo-nlw-esports@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/src/components/Background/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/src/components/Background/styles.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/src/components/GameCard/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/src/components/GameCard/styles.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/src/components/Header/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/src/components/Header/styles.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/src/components/Loading/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/src/components/Loading/styles.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/src/screens/Home/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/src/screens/Home/styles.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/src/theme/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/src/theme/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/src/utils/games.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/src/utils/games.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/postcss.config.cjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/public/background-galaxy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/public/game-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/public/game-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/public/game-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/public/game-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/public/game-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/public/game-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/assets/background-galaxy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/assets/background-galaxy@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/assets/background-galaxy@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/assets/games/game-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/assets/games/game-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/assets/games/game-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/assets/games/game-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/assets/games/game-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/assets/games/game-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/assets/logo-nlw-esports.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/assets/logo-nlw-esports@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/assets/logo-nlw-esports@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/styles/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/tailwind.config.cjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/App.tsx" afterDir="false" />
+    <list default="true" id="6735b4dc-1837-4948-adcc-4365bef70bc2" name="Changes" comment="feat(class-2): Does project web and mobile&#10;&#10;Does the front-end of web and mobile projects.">
+      <change afterPath="$PROJECT_DIR$/server/src/utils/convertHourStringToMinutes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/utils/convertMinutesToHourString.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/server.ts" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/server.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "false",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/marcelo/nlw-esports-2022/mobile",
+    "last_opened_file_path": "/home/marcelo/nlw-esports-2022",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -108,6 +49,11 @@
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "ts.external.directory.path": "/home/marcelo/nlw-esports-2022/mobile/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlite"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -130,7 +76,11 @@
       <updated>1663019803661</updated>
       <workItem from="1663019804986" duration="409000" />
       <workItem from="1663020215038" duration="1290000" />
-      <workItem from="1663022962500" duration="8896000" />
+      <workItem from="1663022962500" duration="9396000" />
+      <workItem from="1663032888354" duration="44000" />
+      <workItem from="1663067669906" duration="220000" />
+      <workItem from="1663110285438" duration="2840000" />
+      <workItem from="1663113315653" duration="4272000" />
     </task>
     <task id="LOCAL-00001" summary="feat(test commit):">
       <created>1663020254961</created>
@@ -139,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663020254961</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat(class-2): Does project web and mobile&#10;&#10;Does the front-end of web and mobile projects.">
+      <created>1663032265683</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663032265683</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,15 +122,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat(test commit):" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(test commit):" />
-  </component>
-  <component name="com.github.lppedd.cc.CommitBuilderDialog">
-    <type>feat</type>
-    <scope>class-2</scope>
-    <subject>Does project web and mobile</subject>
-    <body>Does the front-end of web and mobile projects.</body>
-    <footers>
-      <entry type="" value="" />
-    </footers>
+    <MESSAGE value="feat(class-2): Does project web and mobile&#10;&#10;Does the front-end of web and mobile projects." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(class-2): Does project web and mobile&#10;&#10;Does the front-end of web and mobile projects." />
   </component>
 </project>
