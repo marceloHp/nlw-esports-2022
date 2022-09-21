@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/mobile/src/components/DuoCard/index.tsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mobile/src/screens/Game/index.tsx" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/web/src/App.tsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/src/components/CreateAdBanner.tsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/src/components/CreateAdModal.tsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/src/components/GameBanner.tsx" charset="UTF-8" />
   </component>
 </project>
