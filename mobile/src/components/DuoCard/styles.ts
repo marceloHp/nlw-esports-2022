@@ -10,7 +10,7 @@ export const styles= StyleSheet.create({
         marginRight: 16,
         alignItems: "center"
     },
-    button: {
+    ToggleButtonItem: {
         width:"100%",
         height:36,
         borderRadius: 6,
@@ -19,7 +19,7 @@ export const styles= StyleSheet.create({
         alignItems:"center",
         justifyContent: "center"
     },
-    buttonTitle: {
+    ToggleButtonItemTitle: {
         color: THEME.COLORS.TEXT,
         fontFamily: THEME.FONT_FAMILY.SEMI_BOLD,
         fontSize: THEME.FONT_SIZE.SM,
